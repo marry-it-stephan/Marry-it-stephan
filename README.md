@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java, Flutter and React. I belive the future of tech lies in non-traditional databases and that SQL is about to be killed by Mongo and others so
 - I want to equip myself with the tools to remain relevant when that happens.
 - 💞️ I’m looking to collaborate on any kind of web or mobile app development project
-- 📫 How to reach me marry@aabizsol.com/ mkt1.aabiz@gmail.com
+- 📫 How to reach me marry@aabizsol.com
 
 <!---
 Marry-Aabiz/Marry-Aabiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
